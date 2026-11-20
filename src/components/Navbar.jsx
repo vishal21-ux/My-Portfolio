@@ -67,7 +67,7 @@ export default function Navbar() {
             </a>
           ))}
           <a
-            href="/resume.pdf"
+            href="./resume.pdf"
             download="Vishal_R_Resume.pdf"
             className="nav__resume"
             aria-label="Download Resume PDF"
@@ -101,7 +101,7 @@ export default function Navbar() {
           </a>
         ))}
         <a
-          href="/resume.pdf"
+          href="./resume.pdf"
           download="Vishal_R_Resume.pdf"
           className="nav__mobile-link"
           style={{ color: 'var(--accent)', fontWeight: 600 }}

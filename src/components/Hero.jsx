@@ -41,7 +41,7 @@ export default function Hero() {
           </a>
 
           <a
-            href="/resume.pdf"
+            href="./resume.pdf"
             download="Vishal_R_Resume.pdf"
             className="btn btn--outline"
             id="hero-download-resume"
