@@ -1,0 +1,6 @@
+PLACE YOUR RESUME PDF HERE
+
+Rename your resume file to: resume.pdf
+Then place it in this /public/ folder.
+
+The "Download Resume" button in the portfolio links to /resume.pdf
