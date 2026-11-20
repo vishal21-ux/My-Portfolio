@@ -11,21 +11,21 @@ export default function About() {
         <div className="about__grid">
           <div className="about__text">
             <p>
-              I'm a second-year B.E. Computer Science and Engineering student at
+              I'm a third-year B.E. Computer Science and Engineering student at
               Sri Krishna College of Engineering and Technology, Coimbatore. I find
               genuine interest in building software that solves real problems — not
               just for the sake of it.
             </p>
             <p>
-              My work spans full-stack development with React and Spring Boot,
-              cybersecurity tooling, and machine learning applications. I'm drawn to
-              projects where backend logic, frontend experience, and data all come
-              together cleanly.
+              My focus centers on software engineering and problem solving with Data
+              Structures and Algorithms (DSA), alongside full-stack development with
+              React and Spring Boot. I'm drawn to projects where solid engineering logic,
+              reliable backends, and responsive user experiences come together cleanly.
             </p>
             <p>
-              Outside of coursework, I work on personal projects to sharpen my skills,
-              learn from open-source code, and practice writing cleaner, more maintainable
-              code each day.
+              Outside of coursework, I consistently practice problem solving, explore
+              modern software architecture, and work on real-world projects to write
+              cleaner, more maintainable code each day.
             </p>
           </div>
 
@@ -44,8 +44,8 @@ export default function About() {
 
             <div className="about__meta-item">
               <div className="about__meta-label">Interests</div>
-              <div className="about__meta-value">Full-Stack Development</div>
-              <div className="about__meta-sub">Machine Learning · Software Engineering</div>
+              <div className="about__meta-value">Software Engineering</div>
+              <div className="about__meta-sub">DSA & Problem Solving · Full-Stack Development · Machine Learning</div>
             </div>
 
             <div className="about__meta-item">
