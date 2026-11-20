@@ -10,20 +10,20 @@ export default function Footer() {
           </p>
           <div className="footer__links">
             <a
-              href="https://github.com/vishalr"
+              href="https://github.com/vishal21-ux"
               target="_blank"
               rel="noopener noreferrer"
               className="footer__link"
-              aria-label="GitHub (placeholder — update URL)"
+              aria-label="GitHub Profile"
             >
               GitHub
             </a>
             <a
-              href="https://linkedin.com/in/vishalr"
+              href="https://www.linkedin.com/in/vishalr11"
               target="_blank"
               rel="noopener noreferrer"
               className="footer__link"
-              aria-label="LinkedIn (placeholder — update URL)"
+              aria-label="LinkedIn Profile"
             >
               LinkedIn
             </a>

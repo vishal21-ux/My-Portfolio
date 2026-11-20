@@ -74,23 +74,23 @@ export default function Contact() {
               Email Me
             </a>
             <a
-              href="https://github.com/vishalr"
+              href="https://github.com/vishal21-ux"
               target="_blank"
               rel="noopener noreferrer"
               className="btn btn--outline"
               id="contact-github-btn"
-              aria-label="GitHub profile (placeholder — update with real URL)"
+              aria-label="GitHub profile"
             >
               <GithubIcon />
               GitHub
             </a>
             <a
-              href="https://linkedin.com/in/vishalr"
+              href="https://www.linkedin.com/in/vishalr11"
               target="_blank"
               rel="noopener noreferrer"
               className="btn btn--outline"
               id="contact-linkedin-btn"
-              aria-label="LinkedIn profile (placeholder — update with real URL)"
+              aria-label="LinkedIn profile"
             >
               <LinkedInIcon />
               LinkedIn
